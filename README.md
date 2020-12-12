@@ -1,5 +1,5 @@
 # FiveM Discord Bot - Monitor your FiveM Server easily
-[![Discord Bots](https://discordbots.org/api/widget/status/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880) [![Discord Bots](https://discordbots.org/api/widget/upvotes/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880) [![Discord Bots](https://discordbots.org/api/widget/owner/483787947070586880.svg)]
+[![Discord Bots](https://discordbots.org/api/widget/status/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880) [![Discord Bots]
 
 ##### All New FiveM Forum Integration and Save/Get Player Logs !
 
