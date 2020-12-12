@@ -1,5 +1,5 @@
 # FiveM Discord Bot - Monitor your FiveM Server easily
-[![Discord Bots](https://discordbots.org/api/widget/status/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880) 
+[![Discord Bots](https://discordbots.org/api/widget/status/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880) s
 
 ##### All New FiveM Forum Integration and Save/Get Player Logs !
 
@@ -85,9 +85,7 @@ node fivem.js
 ---
 [Discord](https://discord.gg/yWddFpQ) :)
 ## Feedback is also pretty neat.
--------
-[![Discord Bots](https://discordbots.org/api/widget/483787947070586880.svg)](https://discordbots.org/bot/483787947070586880)
--------
+
 # __FAQ__
 | **Error** | **Solution** | **Example**|
 | ------ | ------ | ------- |
