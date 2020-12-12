@@ -182,7 +182,7 @@ return Math.floor(Math.random() * (max - min)) + min;
 
 //initial start funtion
 client.on("ready", () => {
-  var statuss = [`${client.users.size} Users | ${config.prefix}help`, `${client.guilds.size} Servers | ${config.prefix}help`]
+  var statuss = [`Baybayin Roleplay | ${config.prefix}help`, `Baybayin Citizens | ${config.prefix}help`]
   setInterval(function start() {
     log(`(${client.user.username} Bot): ${colors.green(`Online.`)}`);
     
