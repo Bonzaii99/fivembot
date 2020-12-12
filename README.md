@@ -83,7 +83,7 @@ npm run build
 node fivem.js
 ```
 ---
-[Discord](https://discord.gg/yWddFpQ) :)
+[Discord](https://discord.gg/c6CFKZM2aj) :)
 ## Feedback is also pretty neat.
 
 # __FAQ__
